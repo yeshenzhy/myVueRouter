@@ -137,7 +137,6 @@ A：也是可以的。因为不管什么模式，浏览器为保存记录都会�
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWdrci5jbi1iai51ZmlsZW9zLmNvbS8zMWNmMmFlMy02MjNmLTQzNzgtOTkwYS0yM2Q0YzU2YmQyODcucG5n?x-oss-process=image/format,png)
 
 
->已经把项目放到 **github**：https://github.com/Sunny-lucking/howToBuildMyVueRouter  可以卑微地要个star吗。**有什么不理解或者什么建议，欢迎下方评论**
 
 我们主要看下App.vue,About.vue,Home.vue,router/index.js
 
@@ -928,12 +927,5 @@ export default VueRouter
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWdrci5jbi1iai51ZmlsZW9zLmNvbS9lYWRiYWNlNC01NTJlLTQ5OGMtOGI5Yy03NDhkYmMyODA3NTkucG5n?x-oss-process=image/format,png)
 点击确实视图切换了，成功。
 
-完美收官！！！！
-
-有什么不理解或者什么建议，欢迎下方评论
-
-感谢您也恭喜您看到这里，我可以卑微的求个star吗！！！
-
->github：https://github.com/Sunny-lucking/howToBuildMyVueRouter
 
 >参考文献：文章前面一、二节原理部分 摘自：https://blog.csdn.net/qq867263657/article/details/90903491
